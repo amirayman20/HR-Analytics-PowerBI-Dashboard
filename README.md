@@ -75,8 +75,7 @@
 ---
 
 ## 🗂 4) Repository Structure
-
-```text
+```
 HR-Analytics-PowerBI-Dashboard/
 │
 ├── Dashboard/
@@ -89,6 +88,7 @@ HR-Analytics-PowerBI-Dashboard/
 │   └── dashboard_preview.png
 │
 └── README.md
+```
 
 ---
 
@@ -119,10 +119,3 @@ HR-Analytics-PowerBI-Dashboard/
     </td>
   </tr>
 </table>
-
-
-  © 2026 <strong>Amir Ayman</strong> — <em>MIT Licensed</em><br>
-  Built with ❤️ using <strong>Power BI</strong> & <strong>DAX</strong>
-
-</div>
-
