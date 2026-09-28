@@ -119,7 +119,7 @@ HR-Analytics-PowerBI-Dashboard/
 <table align="center">
   <tr>
     <td align="center">
-      © 2026 <strong>Amir Ayman</strong> — <em>MIT Licensed</em><br>
+      © 2026 <strong>Amir Ayman</strong> — 
       Built with ❤️ using <strong>Power BI</strong> & <strong>DAX</strong>
     </td>
   </tr>
