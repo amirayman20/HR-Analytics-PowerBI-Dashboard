@@ -90,14 +90,28 @@ HR-Analytics-PowerBI-Dashboard/
 │
 └── README.md
 
-## Contact Me
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-Amir_Ayman-0A66C2?style=for-the-badge&logo=linkedin)
-![GitHub](https://img.shields.io/badge/GitHub-amirayman20-181717?style=for-the-badge&logo=github)
-![Email](https://img.shields.io/badge/Email-amirayman20@gmail.com-red?style=for-the-badge&logo=gmail)
 
-<p align="center">
-  © 2026 <strong>Amir Ayman</strong> — <em>MIT Licensed</em> <br>
+## 📬 Connect With Me
+
+<div style="text-align:center;">
+
+  <a href="https://www.linkedin.com/in/amir-ayman-664513103/" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+
+  <a href="https://github.com/amirayman20" target="_blank">
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+
+</div>
+
+---
+
+<div style="text-align:center; font-size:14px;">
+
+  © 2026 <strong>Amir Ayman</strong> — <em>MIT Licensed</em><br>
   Built with ❤️ using <strong>Power BI</strong> & <strong>DAX</strong>
-</p>
+
+</div>
 
