@@ -94,21 +94,32 @@ HR-Analytics-PowerBI-Dashboard/
 
 ## 📬 Connect With Me
 
-<div style="text-align:center;">
-
-  <a href="https://www.linkedin.com/in/amir-ayman-664513103/" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-
-  <a href="https://github.com/amirayman20" target="_blank">
-    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-
-</div>
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/amir-ayman-664513103/" target="_blank">
+        <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/amirayman20" target="_blank">
+        <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
-<div style="text-align:center; font-size:14px;">
+<table align="center">
+  <tr>
+    <td align="center">
+      © 2026 <strong>Amir Ayman</strong> — <em>MIT Licensed</em><br>
+      Built with ❤️ using <strong>Power BI</strong> & <strong>DAX</strong>
+    </td>
+  </tr>
+</table>
+
 
   © 2026 <strong>Amir Ayman</strong> — <em>MIT Licensed</em><br>
   Built with ❤️ using <strong>Power BI</strong> & <strong>DAX</strong>
