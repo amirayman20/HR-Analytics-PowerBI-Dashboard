@@ -106,6 +106,11 @@ HR-Analytics-PowerBI-Dashboard/
         <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
       </a>
     </td>
+    <td align="center">
+      <a href="mailto:amirayman20@gmail.com">
+        <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+      </a>
+    </td>
   </tr>
 </table>
 
@@ -117,5 +122,7 @@ HR-Analytics-PowerBI-Dashboard/
       © 2026 <strong>Amir Ayman</strong> — <em>MIT Licensed</em><br>
       Built with ❤️ using <strong>Power BI</strong> & <strong>DAX</strong>
     </td>
+  </tr>
+</table>
   </tr>
 </table>
